@@ -1,5 +1,5 @@
 ---
-title: "Deep Residual Learning for Image Recognition"
+title: "[paper]Deep Residual Learning for Image Recognition"
 author_profile: false
 toc: True	
 toc_label: "table of contents"

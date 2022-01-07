@@ -24,3 +24,6 @@ author_profile: false
 
 # *Skills*
 python, pytorch, tensorflow, linux, shell scripting, docker
+
+# *Contact*
+https://github.com/illizard

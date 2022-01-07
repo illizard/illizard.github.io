@@ -1,5 +1,5 @@
 ---
-title: "Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation"
+title: "[paper]Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation"
 author_profile: false
 toc: True	
 toc_label: "table of contents"
