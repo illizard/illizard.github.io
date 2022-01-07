@@ -142,8 +142,8 @@ GPU연결 안되어 있으면 진짜 1에폭 돌리는데도 10시간 걸림
 
 - 명령어 마지막에 threshold 값(-thresh 0.5) 줘야함
 
-![(./assets/image/post_image/project/2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/[project]layer_info.png]
-(./assets/image/post_image/project/2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/[project]layer_info.png)
+![(/assets/image/post_image/project/2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/[project]layer_info.png]
+(/assets/image/post_image/project/2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/[project]layer_info.png)
 
 # 이슈
 
@@ -152,8 +152,8 @@ GPU연결 안되어 있으면 진짜 1에폭 돌리는데도 10시간 걸림
 추론된 이미지를 볼떄 x server error가 나는 데도 사진은 보여짐
 - train.txt 파일 제일 아래에 빈칸이 있어서 오류가 났음
     
-    ![./assets/image/post_image/project/[project]2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/file_has_blank_in_final_line.png]
-    (./assets/image/post_image/project/[project]2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/file_has_blank_in_final_line.png)
+    ![/assets/image/post_image/project/[project]2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/file_has_blank_in_final_line.png]
+    (/assets/image/post_image/project/[project]2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/file_has_blank_in_final_line.png)
     
 
 ## 추론 결과
@@ -162,8 +162,8 @@ max_batch = 8200
 
 step = 6560, 7380
 
-![./assets/image/post_image/project/[project]2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/confidence_score.png.png]
-(./assets/image/post_image/project/[project]2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/confidence_score.png.png)
+![/assets/image/post_image/project/[project]2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/confidence_score.png.png]
+(/assets/image/post_image/project/[project]2022-01-07-Yolo-v3로-news-단락-구분-모델-만들기/confidence_score.png.png)
 
 # 링크
 
