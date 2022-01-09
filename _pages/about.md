@@ -26,4 +26,4 @@ author_profile: false
 python, pytorch, tensorflow, linux, shell scripting, docker
 
 # *Contact*
-https://github.com/illizard
+illizard0254@gmail.com
