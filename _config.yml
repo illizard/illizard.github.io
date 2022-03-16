@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "custom" # "air", "aqua", "contrast", "dark", "dirt",
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "wanil's blog"
+title                    : "Pancho's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "wanil"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "wanil"
+  name             : "Pancho"
   avatar           : /assets/image/profile_image/palmtree.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am interested in deep learning, computer vision and OCR."
   location         : "Seoul, Repulic of Korea"
@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:illizard0254@gmail.com"
+      url: "mailto:wilee@sogang.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

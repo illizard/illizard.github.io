@@ -5,13 +5,14 @@ author_profile: false
 ---
           
                                  
-안녕하세요. wanil의 블로그입니다.     
+안녕하세요. Pancho의 블로그입니다.     
 공부한 내용을 정리하고 있습니다.    
 저의 관심분야는 딥러닝, 컴퓨터비전, 문자인식 등 입니다. 
 {: .text-center}     
 
 # *Degree*
 2014.03 ~ 2020.08 아주대학교 사학 전공, 인문 사회 데이터 분석 부전공 졸업     
+2022.03           서강대학교 인공지능학과(멀티미디어 시스템 연구실) 석사과정 재학중
 
 # *Experience*
 2020.07 ~ 2020.10 [한국 정보화 진흥원] 데이터 플래그십 계약서 리스크 분석 사업    
@@ -26,4 +27,4 @@ author_profile: false
 python, pytorch, tensorflow, linux, shell scripting, docker
 
 # *Contact*
-illizard0254@gmail.com
+wilee@sogang.ac.kr
