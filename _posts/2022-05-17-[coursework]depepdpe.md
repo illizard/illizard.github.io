@@ -1,16 +1,16 @@
 ---
-title: "[paper]Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation"
+title: "[coursework]depepdpe"
 author_profile: false
 toc: True	
 toc_label: "table of contents"
 toc_icon: True
 toc_sticky:	True
 categories: 
-    - Paper Review
+    - coursework
 tags: 
-    - Computer Vision
-    - Segmentation
-last_modified_at: 2022-01-05
+    - lossfunction
+    - optimizer
+last_modified_at: 2022-05-17
 ---
 
 # ***Related Work***
