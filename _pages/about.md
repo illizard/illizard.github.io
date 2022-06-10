@@ -4,7 +4,7 @@ layout: single
 author_profile: false
 ---
 
-![Sisley-Bridge_at_Villeneuve-la-Garenne](https://user-images.githubusercontent.com/57248121/172965940-8403c4ee-6711-4c80-8a2a-7dc6af455575.jpg){: width="50%" height="50%"}{: .center}          
+![Sisley-Bridge_at_Villeneuve-la-Garenne](https://user-images.githubusercontent.com/57248121/172965940-8403c4ee-6711-4c80-8a2a-7dc6af455575.jpg){: width="50%" height="50%" .center}          
                                  
 안녕하세요. Pancho의 블로그입니다.     
 공부한 내용을 정리하고 있습니다.    
