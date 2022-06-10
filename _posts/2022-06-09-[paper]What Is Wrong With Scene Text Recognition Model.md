@@ -21,6 +21,8 @@ last_modified_at: 2022-06-09
 
 - OCR 시스템은 깨끗하게 잘 정제된 문서에서는 좋은 성능을 보임, 그러나 다양한 텍스트가 나타나는 실제 세상 이미지와 완벽하지 않은 조건에서 찍힌 장면에서는 좋은 성능을 보이지 못함.
 
-![2022-06-09-[paper]What Is Wrong With Scene Text Recognition Model_1.png](https://github.com/illizard/illizard.github.io/assets/image/post_image/paper/2022-06-09-[paper]What Is Wrong With Scene Text Recognition Model_1.png)
+![2022-06-09- paper What Is Wrong With Scene Text Recognition Model_1](https://user-images.githubusercontent.com/57248121/172964721-740222db-67fb-4424-84fa-7f19d2c1444f.png)
 
-![2022-06-09-[paper]What Is Wrong With Scene Text Recognition Model_2.png](https://github.com/illizard/illizard.github.io/assets/image/post_image/paper/2022-06-09-[paper]What Is Wrong With Scene Text Recognition Model_2.png)
+![2022-06-09- paper What Is Wrong With Scene Text Recognition Model_2](https://user-images.githubusercontent.com/57248121/172964758-81f0f667-b658-40b7-b81c-22b14b20c13a.jpg)
+
+![2022-06-09-[paper]What Is Wrong With Scene Text Recognition Model_2.png](https://github.com/illizard/illizard.github.io/blob/main/assets/image/post_image/paper/2022-06-09-%5Bpaper%5DWhat%20Is%20Wrong%20With%20Scene%20Text%20Recognition%20Model/2022-06-09-%5Bpaper%5DWhat%20Is%20Wrong%20With%20Scene%20Text%20Recognition%20Model_2.jpg)
